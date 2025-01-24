@@ -15,6 +15,6 @@ const fireworks = new Fireworks({
   speed: 2,  // Optional: speed of fireworks
   width: window.innerWidth,  // Optional: full screen width
   height: window.innerHeight,  // Optional: full screen height
-  num: 5,  // Optional: number of fireworks
+  num: 50,  // Optional: number of fireworks
 })
 fireworks.start()
